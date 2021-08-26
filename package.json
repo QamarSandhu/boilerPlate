@@ -1,11 +1,16 @@
 {
   "name": "boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "node js best boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "QamarSandhu",
-  "license": "ISC"
+  "author": "Qamar Sandhu",
+  "license": "ISC",
+  "keywords": [
+    "descriptive",
+    "node",
+    "freecodecamp"
+  ]
 }
